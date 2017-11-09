@@ -1,0 +1,1 @@
+--OJO: Triggers que hacen referencia a la misma tabla, pueden quedar en un ciclo
